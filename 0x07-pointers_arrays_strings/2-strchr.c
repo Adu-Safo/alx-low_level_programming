@@ -3,7 +3,7 @@
  * _strchr - locates a character in a string,
  * @s: string.
  * @c: character.
- * Return: the pointer to the frist occurrence of the character c.
+ * Return: pointer to the frist occurrence of the character c in string s.
  */
 char *_strchr(char *s, char c)
 {
