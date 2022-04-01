@@ -4,7 +4,7 @@
  * main - prints the minimum number of coins to make change for an amount.
  * of money.
  * @argc: number of command line arguments.
- * @argv: array that contains the program command line arguments.
+ * @argv: `contains the program command line arguments.
  * Return: 0 - success.
  */
 int main(int argc, char *argv[])
